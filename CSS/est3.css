@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cab{
+    background-color: rgb(255, 247, 172);
+    border: 5px solid rgb(240, 226, 148);
+    height: 8vh;
+}
