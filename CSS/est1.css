@@ -2,9 +2,25 @@
     margin: 0;
     padding: 0;
 }
+
 #cab{
     background-color: blue;
     border: 5px solid black;
-    content: "";
-    height: 10vh;
+    height: 8vh;
+}
+
+#div1{
+    background-color: blue;
+    border: 5px solid black;
+    height: 70vh;
+    width: 15vw; 
+    display: inline-block;
+}
+
+#div2{
+    background-color: blue;
+    border: 5px solid black;
+    height: 70vh;
+    width: 82vw;
+    float: right;
 }
