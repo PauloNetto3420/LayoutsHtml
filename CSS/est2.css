@@ -2,3 +2,41 @@
     margin: 0;
     padding: 0;
 }
+
+#cabe{
+    background-color:  rgb(129, 245, 145);
+    border: 5px solid rgb(46, 109, 46);
+    height: 20vh;
+}
+
+#div1{
+    background-color:  rgb(129, 245, 145);
+    border: 5px solid rgb(46, 109, 46);
+    height: 100vh;
+    width: 65vw; 
+    display: inline-block;
+    margin-left: 1vw;
+    
+}
+
+#div2{
+    background-color:  rgb(129, 245, 145);
+    border: 5px solid rgb(46, 109, 46);
+    height: 100vh;
+    width: 15vw; 
+    float: left;
+}
+
+#div3{
+    background-color:  rgb(129, 245, 145);
+    border: 5px solid rgb(46, 109, 46);
+    height: 100vh;
+    width: 15vw;
+    float: right;
+}
+
+#foot{
+    background-color:  rgb(129, 245, 145);
+    border: 5px solid rgb(46, 109, 46);
+    height: 8vh;
+}
