@@ -7,4 +7,29 @@
     background-color: rgb(255, 247, 172);
     border: 5px solid rgb(240, 226, 148);
     height: 8vh;
+    margin: 5px;
+}
+
+#div1{
+    background-color: rgb(255, 247, 172);
+    border: 5px solid rgb(240, 226, 148);
+    height: 80vh;
+    width: 82vw;
+    display: inline-block;
+}
+
+#div2{
+    background-color: rgb(255, 247, 172);
+    border: 5px solid rgb(240, 226, 148);
+    height: 80vh;
+    width: 15vw;
+    float: right;
+}
+
+
+#foot{
+    background-color: rgb(255, 247, 172);
+    border: 5px solid rgb(240, 226, 148);
+    height: 10vh;
+    width: 100vw;
 }
