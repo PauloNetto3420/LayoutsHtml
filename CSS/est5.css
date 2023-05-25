@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#cab {
+    background-color: rgb(223, 215, 215);
+    border: 5px solid rgb(156, 155, 155);
+    height: 20vh;
+    width: 97.5vw;
+    margin: 5px;
+}
+
+#nav {
+    background-color: rgb(223, 215, 215);
+    border: 5px solid rgb(156, 155, 155);
+    width: 10vw;
+    height: 93vh;
+    float: left;
+    margin: 5px;
+}
+
+#sec1{
+    background-color: rgb(223, 215, 215);
+    border: 5px solid rgb(156, 155, 155);
+    display: inline-block;
+    height: 30vh;
+    width: 86vw;
+    margin: 5px;
+}
+
+#sec2{
+    background-color: rgb(223, 215, 215);
+    border: 5px solid rgb(156, 155, 155);
+    display: inline-block;
+    height: 30vh;
+    width: 86vw;
+    margin: 5px;
+}
+
+#sec3{
+    background-color: rgb(223, 215, 215);
+    border: 5px solid rgb(156, 155, 155);
+    display: inline-block;
+    height: 27vh;
+    width: 86vw;
+    margin: 5px;    
+}
+
+#foot{
+    background-color: rgb(223, 215, 215);
+    border: 5px solid rgb(156, 155, 155);
+    height: 20vh;
+    width: 97.5vw;
+    margin: 5px;
+    
+}
